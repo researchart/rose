@@ -66,7 +66,7 @@ The review process described here has three actors
 
 1. _Recruitment_: Gather your review team. Collect anonymous Github ids from each.
 1. _Create repo_: Make a public repo. Make with one sub-directories for each badge that might be assigned. 
-   -  Those badges may change from conference to conference and might include 
+   -  Those badges may change from conference to conference and might include  the following. For definitions of these badges, see [the ICSE'20 artifacts track cfp](https://conf.researchr.org/track/icse-2020/icse-2020-Artifact-Evaluation#Call-for-Submissions).
       - reusable
       - available
       - replicated
