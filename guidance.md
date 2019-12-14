@@ -2,11 +2,12 @@
 
 This document offeres some notes on the process of using Github to assign badges to SE publcaitions.
 
-______
+ 
 
 ## Background
 
-## Goal
+<img src="http://image.desktopcal.com/default/desktopcal_256x256.png" align=right>
+### Goal
 
 Artifact evaluation is a **colloborative** process where reviewers and and authors work together to double check that research
 artifacts are ady to be used (or have been used) by other teams.
@@ -21,7 +22,7 @@ This is a **interactive** process where reviewers and authors may have multiple 
 - Reviewers point out some small issue that stops an artifact installing on a new platfrom
 - Authors fix up their artifacts to remove that issue.
 
- ## F.A.Q: Why use Github? 
+ ### F.A.Q: Why use Github? 
 
 We prefer toosl like Github over tools like EasyChair, HotCrp, etc since tools like  Github allows for the colloberative interactive
 process required to prepare artifacts for widespread use.
