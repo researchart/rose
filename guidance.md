@@ -1,12 +1,16 @@
+
+<img align=right width=300 src="https://freerangestock.com/sample/76240/review-character-shows-assess-reviewing-evaluate-and-reviews.jpg">
+
 # Guidance (methods, hints and tips)
 
 This document offeres some notes on the process of using Github to assign badges to SE publcaitions.
 
  
+<br clear=all><img src="http://image.desktopcal.com/default/desktopcal_256x256.png" wdith=300 align=right>
 
 ## Background
 
-<img src="http://image.desktopcal.com/default/desktopcal_256x256.png" align=right>
+
 ### Goal
 
 Artifact evaluation is a **colloborative** process where reviewers and and authors work together to double check that research
