@@ -31,7 +31,7 @@ We prefer toosl like Github over tools like EasyChair, HotCrp, etc since tools l
 process required to prepare artifacts for widespread use.
 
 
-<br clear=all><img src="https://www.trustford.co.uk/img/aftersales/hints.jpg" wdith=300 align=right>
+<br clear=all><img src="https://www.trustford.co.uk/img/aftersales/hints.jpg" width=300 align=right>
 
 ## Things to Look For
 
