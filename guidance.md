@@ -95,8 +95,7 @@ The review process described here has three actors
 
 1. _Create ids_: reviewers create an anonymous Id for themselves and pass that id to the track chairs.
 2. _InitialInstalls_: once assigned to an issue, see if you can use the artifact. Use author/reviewer interaction (so the installs can be debugged). 
-3. _NeedsReview_: comment on the artifact (perhaps using the sample comments shown below). Ignore any author comments (so your can reflect on  
-       submissions without author distactions).
+3. _NeedsReview_: comment on the artifact (perhaps using the [sample comments shown below](#things-to-look-for)). Ignore any author comments (so your can reflect on submissions without author distactions).
  4. _AuthorComment_ : Use author/reviewer interaction (so the artifacts can be improved and, where possible, reviewer issues can be resolved). 
 
 
