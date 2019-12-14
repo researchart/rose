@@ -72,30 +72,33 @@ The review process described here has three actors
       - replicated
       - reporoduced_.
 1. _Define your tracking labels_: These labels will be the process marks that track where the review process. 
-   - The labels you use may change from conference to conference and might include the following. Note that the first half show the progess of the artifact throught the review process and the last 4 are final decisions (which are added at the end of the review process):
+   - The labels you use may change from conference to conference and might include the following. Note that the first half show the progess of the artifact throught the review process and the last5 are final decisions (which are added at the end of the review process):
         - 1. InitialInstalls 
         - 2. NeedsFirstReview
         - 3. NeedsSecondReview
         - 4. AuthorComment
+        - nobadge
         - reusable
         - available
         - replicated
-        - reproduced
-              
+        - reproduced              
 1. _Watch for pull requests from authors_: ensure that their materials are to unique sub-directory names under the badge directories.
 2. _Assignment_:  To assign reviewers to aertifacts, create one (and only one) issue per submission. At the top of that issue, add a link to the sub-directory for the artifact.  Assign some reviewers and the authors to the issue.
 3. _Monitor_: watch the comment process, stamping out fruitless discussions. 
-     - During _1. IntiailInstalls_ allow author/reviewer interaction (so the installs can be debugged). 
-     - During - 2. UnderReview
-              - 3. FirstReview
-              - 4. SeccondReview
-
+     - During _InitialInstalls_ allow author/reviewer interaction (so the installs can be debugged). 
+     - During _NeedsFirstReview_ and _NeedsSecondReview_, delete any author comments (so reviewers can reflect on their
+       submission without author distaction)
+     - During _AuthorComment_,  allow author/reviewer interaction (so the artifacts can be improved and, where possible, reviewer issues can be resolved). 
+     
 
 ### Process for Reviewers:
 
-1. _Create ids_ (by reviewers): reviewers create an anonymous Id for themselves and pass that id to the track chairs.
+1. _Create ids_: reviewers create an anonymous Id for themselves and pass that id to the track chairs.
+2. _InitialInstalls_: once assigned to an issue, see if you can use the artifact. Use author/reviewer interaction (so the installs can be debugged). 
+3. _NeedsReview_: comment on the artifact (perhaps using the sample comments shown below). Ignore any author comments (so your can reflect on  
+       submissions without author distactions).
+ 4. _AuthorComment_ : Use author/reviewer interaction (so the artifacts can be improved and, where possible, reviewer issues can be resolved). 
 
-2. _Initial peek_: 
 
 <br clear=all><img src="https://www.trustford.co.uk/img/aftersales/hints.jpg" width=400 align=right>
 
