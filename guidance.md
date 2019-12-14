@@ -3,7 +3,7 @@
 
 # Guidance (methods, hints and tips)
 
-This document offeres some notes on the process of using Github to assign badges to SE publcaitions.
+This document is for reviewers using   Github to assign badges to SE publciations.
 
  
 
@@ -30,6 +30,50 @@ This is a **interactive** process where reviewers and authors may have multiple 
 We prefer toosl like Github over tools like EasyChair, HotCrp, etc since tools like  Github allows for the colloberative interactive
 process required to prepare artifacts for widespread use.
 
+Also, if reviewers create anonymous ids for themselves, then Github easily supports blind review.
+
+## Process
+
+
+### Actors
+
+The review process described here has three actors
+
+- Authors who offer submssions;
+- Reviewers who review submissions;
+- Track chairs who assign submissions to reviewers;
+
+### Process for Authors:
+
+1. _Prepare the artifact_ (by authors): According to  [wilson et al](https://arxiv.org/pdf/1609.00037.pdf) artifacts can take
+               many forms (just simple text files,   scripts,   packages,   containers, etc) and your should choose a format that works best for you.
+2. _Submssion_ (by authors):
+     - Authors document their artifact using some files specfied by the track chairs. Those files ay change from conference to 
+       confernce and might include
+         - CONFLICTS.md: list of review committee members that are conflicted with the authors (and should not review this
+            submission).
+         - CONTACTS.md: emails for authors
+         - LICENSE.md: usage permissions
+         - INSTALL.md:
+             - Where to get the articat
+             - How to install. 
+         - STATUS.md: if applying for multiple badges, list those here.
+         - README.md: introductoriry notes on the artifact and, eprhaps, tutorials on how to use it.
+           [Example1](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46). 
+           [Example2](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3). 
+
+### Process for Track chairs:
+
+1. _Create repo_ (by track chairs): Make repo, with one subd-directories for each badge that might be assigned. Those badges
+   may change from conference to conference and might include _reusable, available, replciated, reporoduced_.
+2. _Assignment_: Track chairs assi
+
+
+### Process for Reviewers:
+
+1. _Create ids_ (by reviewers): reviewers create an anonymous Id for themselves and pass that id to the track chairs.
+
+2. _Initial peek_: 
 
 <br clear=all><img src="https://www.trustford.co.uk/img/aftersales/hints.jpg" width=400 align=right>
 
