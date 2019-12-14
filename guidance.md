@@ -32,10 +32,8 @@ process required to prepare artifacts for widespread use.
 
 Also, if reviewers create anonymous ids for themselves, then Github easily supports blind review.
 
-## Process
-
-
-### Actors
+ 
+## Actors
 
 The review process described here has three actors
 
@@ -43,7 +41,9 @@ The review process described here has three actors
 - Reviewers who review submissions;
 - Track chairs who assign submissions to reviewers;
 
-### Process for Authors:
+<br clear=all><img   width=400 align=right src="https://i0.wp.com/www.literaryrebel.com/wp-content/uploads/success-formula.jpg?resize=1080%2C628">
+
+## Process for Authors:
 
 1. _Prepare the artifact_ (by authors): According to  [Wilson et al](https://arxiv.org/pdf/1609.00037.pdf) artifacts can take
                many forms (just simple text files,  checklists to guide questionnaires,  scripts,   packages,   containers, etc).  You should choose an artifact  format that works best for you.
@@ -61,8 +61,9 @@ The review process described here has three actors
            [Example2](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3). 
 
 
+<br clear=all><img   width=400 align=right src="https://stockx.imgix.net/products/streetwear/Supreme-Directors-Chair-Red.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1553192445">
 
-### Process for Track chairs:
+## Process for Track chairs:
 
 1. _Recruitment_: Gather your review team. Colelct anonymous Githun ids from each.
 1. _Create repo_: Make a public repo. Make with one sub-directories for each badge that might be assigned. 
@@ -89,9 +90,11 @@ The review process described here has three actors
      - During _NeedsFirstReview_ and _NeedsSecondReview_, delete any author comments (so reviewers can reflect on their
        submission without author distaction)
      - During _AuthorComment_,  allow author/reviewer interaction (so the artifacts can be improved and, where possible, reviewer issues can be resolved). 
-     
+  
+  
+<br clear=all><img   width=400 align=right src="https://www.amzdiscover.com/blog/wp-content/uploads/2018/07/reviewers.jpg">
 
-### Process for Reviewers:
+## Process for Reviewers:
 
 1. _Create ids_: reviewers create an anonymous Id for themselves and pass that id to the track chairs.
 2. _InitialInstalls_: once assigned to an issue, see if you can use the artifact. Use author/reviewer interaction (so the installs can be debugged). 
@@ -99,7 +102,7 @@ The review process described here has three actors
  4. _AuthorComment_ : Use author/reviewer interaction (so the artifacts can be improved and, where possible, reviewer issues can be resolved). 
 
 
-<br clear=all><img src="https://www.trustford.co.uk/img/aftersales/hints.jpg" width=400 align=right>
+<br clear=all><img   width=400 align=right src="https://www.trustford.co.uk/img/aftersales/hints.jpg">
 
 ## Things to Look For
 
