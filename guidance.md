@@ -6,7 +6,6 @@
 This document offeres some notes on the process of using Github to assign badges to SE publcaitions.
 
  
-<br clear=all><img src="http://image.desktopcal.com/default/desktopcal_256x256.png" wdith=300 align=right>
 
 ## Background
 
@@ -32,6 +31,7 @@ We prefer toosl like Github over tools like EasyChair, HotCrp, etc since tools l
 process required to prepare artifacts for widespread use.
 
 
+<br clear=all><img src="https://www.trustford.co.uk/img/aftersales/hints.jpg" wdith=300 align=right>
 
 ## Things to Look For
 
