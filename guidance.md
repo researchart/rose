@@ -45,8 +45,8 @@ The review process described here has three actors
 
 ### Process for Authors:
 
-1. _Prepare the artifact_ (by authors): According to  [wilson et al](https://arxiv.org/pdf/1609.00037.pdf) artifacts can take
-               many forms (just simple text files,   scripts,   packages,   containers, etc) and your should choose a format that works best for you.
+1. _Prepare the artifact_ (by authors): According to  [Wilson et al](https://arxiv.org/pdf/1609.00037.pdf) artifacts can take
+               many forms (just simple text files,  checklists to guide questionnaires,  scripts,   packages,   containers, etc).  You should choose an artifact  format that works best for you.
 2. _Submssion_ (by authors):
      - Authors document their artifact using some files specfied by the track chairs. Those files ay change from conference to 
        confernce and might include
