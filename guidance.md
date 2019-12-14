@@ -1,5 +1,5 @@
 
-<img align=right width=400 src="https://freerangestock.com/sample/76240/review-character-shows-assess-reviewing-evaluate-and-reviews.jpg">
+<img align=right  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyy337olOGg3hXKd-rgf9J-VwbL453qo6eu9qBDagXdfGM2r0g&s">
 
 # Guidance (methods, hints and tips)
 
