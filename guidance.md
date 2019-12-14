@@ -44,9 +44,10 @@ The review process described here has three actors
 
 ## Process for Authors:
 
-1. _Prepare the artifact_ (by authors): According to  [Wilson et al](https://arxiv.org/pdf/1609.00037.pdf) artifacts can take
+1. _Prepare the artifact_ : According to  [Wilson et al](https://arxiv.org/pdf/1609.00037.pdf) artifacts can take
                many forms (just simple text files,  checklists to guide questionnaires,  scripts,   packages,   containers, etc).  You should choose an artifact  format that works best for you.
-2. _Submssion_ (by authors):
+2. _Check out_: check out the repo maintained by the track chairs into your own local branch.
+2. _Document_:
      - Authors document their artifact using some files specfied by the track chairs. Those files ay change from conference to 
        confernce and might include
        - CONFLICTS.md: list of review committee members that are conflicted with the authors (and should not review this
@@ -58,7 +59,14 @@ The review process described here has three actors
        - README.md: introductoriry notes on the artifact and, eprhaps, tutorials on how to use it.
            [Example1](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46). 
            [Example2](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3). 
+     - Those files are added to a subdirectory of the submissions directory in the repo.
+     - Commit those changes (in your branch) back to Github
 
+3. _Pull request_ issue a pull request to the master branch of the repo
+4. Watch for help requests from authors (in the issue devoted to your submission)
+5. Then leave the reviewers alone during their review period. Note that track chairs will delete your comments during this period (so reviewers can reflect on your submission without
+   your distractions).
+6. Once your submission's issues are labelled _AuthorComment_, feel free to interact extensively with the reviewers.
 
 <br clear=all><img   width=400 align=right src="https://stockx.imgix.net/products/streetwear/Supreme-Directors-Chair-Red.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1553192445">
 
