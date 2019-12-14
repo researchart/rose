@@ -7,12 +7,18 @@ This document is for reviewers using   Github to assign badges to SE publication
 
  
 
-## Background
+
+## F.A.Q: Why use Github? 
+
+We prefer tools like Github over tools like EasyChair, HotCrp, etc since tools like  Github allows for the collaborative interactive
+process required to prepare artifacts for widespread use.
+
+Also, if reviewers create anonymous ids for themselves, then Github easily supports blind review.
 
 
-### Goal
+## Goal
 
-Artifact evaluation is a **colloborative** process where reviewers and authors work together to double check that research
+We say that artifact evaluation is a **colloborative** process where reviewers and authors work together to double check that research
 artifacts are ready to be used (or have been used) by other teams.
 
 This is **not** an adversarial  process. 
@@ -25,14 +31,7 @@ This is a **interactive** process where reviewers and authors may have multiple 
 - Reviewers point out some small issue that stops an artifact installing on a new platform
 - Authors fix up their artifacts to remove that issue.
 
- ### F.A.Q: Why use Github? 
-
-We prefer tools like Github over tools like EasyChair, HotCrp, etc since tools like  Github allows for the collaborative interactive
-process required to prepare artifacts for widespread use.
-
-Also, if reviewers create anonymous ids for themselves, then Github easily supports blind review.
-
- 
+  
 ## Actors
 
 The review process described here has three actors
