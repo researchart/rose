@@ -1,9 +1,38 @@
 # Guidance (methods, hints and tips)
 
+This document offeres some notes on the process of using Github to assign badges to SE publcaitions.
+
+______
+
+## Background
+
+## Goal
+
+Artifact evaluation is a **colloborative** process where reviewers and and authors work together to double check that research
+artifacts are ady to be used (or have been used) by other teams.
+
+This is **not** an adversial process. 
+
+- Everything we deal with here relates to materials that have passed peer review at other venues.
+- Hence we expect a very large "acceptance" rate; i.e. most authors will get the badges that they request.
+
+This is a **interactive** process where reviewers and authors may have multiple interactions; e.g.
+
+- Reviewers point out some small issue that stops an artifact installing on a new platfrom
+- Authors fix up their artifacts to remove that issue.
+
+ ## F.A.Q: Why use Github? 
+
+We prefer toosl like Github over tools like EasyChair, HotCrp, etc since tools like  Github allows for the colloberative interactive
+process required to prepare artifacts for widespread use.
+
+
+
 ## Things to Look For
 
-This section comes from Erin Dahlgren's report: [Getting Research Software to Work:
-A Case Study on Artifact Evaluation for OOPSLA 2019](https://2019.splashcon.org/getImage/orig/accpub-OOPSLA2019-licensed.pdf)
+This section comes from Erin Dahlgren's repor  [Getting Research Software to Work:
+A Case Study on Artifact Evaluation for OOPSLA 2019](https://2019.splashcon.org/getImage/orig/accpub-OOPSLA2019-licensed.pdf) 
+and lists some common comments that reviewers make about artifacts. Reviewers may find the following comments useful in their review.
 
 
 ### Common Negative Comments
