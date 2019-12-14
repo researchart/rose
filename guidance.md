@@ -54,19 +54,41 @@ The review process described here has three actors
             submission).
          - CONTACTS.md: emails for authors
          - LICENSE.md: usage permissions
-         - INSTALL.md:
-             - Where to get the articat
-             - How to install. 
+         - INSTALL.md: where to get the artifact;  how to install it. 
          - STATUS.md: if applying for multiple badges, list those here.
          - README.md: introductoriry notes on the artifact and, eprhaps, tutorials on how to use it.
            [Example1](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46). 
            [Example2](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3). 
 
+
+
 ### Process for Track chairs:
 
-1. _Create repo_ (by track chairs): Make repo, with one subd-directories for each badge that might be assigned. Those badges
-   may change from conference to conference and might include _reusable, available, replciated, reporoduced_.
-2. _Assignment_: Track chairs assi
+1. _Recruitment_: Gather your review team. Colelct anonymous Githun ids from each.
+1. _Create repo_: Make a public repo. Make with one sub-directories for each badge that might be assigned. 
+         -  Those badges may change from conference to conference and might include 
+             - reusable
+             - available
+             - replicated
+             - reporoduced_.
+1. _Define your tracking labels_: These labels will be the process marks that track where the review process. 
+   - The labels you use may change from conference to conference and might include the following. Note that the first half show the progess of the artifact throught the review process and the last 4 are final decisions (which are added at the end of the review process):
+              - 1. InitialInstalls 
+              - 2. NeedsFirstReview
+              - 3. NeedsSecondReview
+              - 4. AuthorComment
+              - reusable
+              - available
+              - replicated
+              - reporoduced
+              
+1. _Watch for pull requests from authors_: ensure that their materials are to unique sub-directory names under the badge directories.
+2. _Assignment_:  To assign reviewers to aertifacts, create one (and only one) issue per submission. At the top of that issue, add a link to the sub-directory for the artifact.  Assign some reviewers and the authors to the issue.
+3. _Monitor_: watch the comment process, stamping out fruitless discussions. 
+     - During _1. IntiailInstalls_ allow author/reviewer interaction (so the installs can be debugged). 
+     - During - 2. UnderReview
+              - 3. FirstReview
+              - 4. SeccondReview
 
 
 ### Process for Reviewers:
